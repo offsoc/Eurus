@@ -16,7 +16,7 @@ func_timeout
 langdetect
 immutabledict
 datasets
-transformers==4.50.0
+transformers==4.51.0
 thefuzz
 absl-py
 
